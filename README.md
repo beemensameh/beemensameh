@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm @beemensameh. A passionate Back-End engineer with a demonstrated history of work in computer software. Work with Python, PHP, Database Development (SQL Server, MySQL, Postgres). And I developed many Laravel, Django, Golang projects.
+I'm @beemensameh. A passionate Back-End developer with a demonstrated history of work in computer software. Work with Python, PHP, Database Development (SQL Server, MySQL, Postgres). And I developed many Laravel, Django, Golang projects.
 
 Here are some ideas to get you started:
 
