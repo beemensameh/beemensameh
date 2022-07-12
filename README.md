@@ -5,6 +5,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [swissknife-tools](https://github.com/beemensameh/swissknife-tools)
 - 🌱 I’m currently learning (AWS)
-- 👯 I’m looking to collaborate on [swissknife-tools](https://github.com/beemensameh/swissknife-tools)
 - 💬 Ask me about any Back-End langs or techs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/beemensameh/)
